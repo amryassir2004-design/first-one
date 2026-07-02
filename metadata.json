@@ -1,0 +1,6 @@
+{
+  "name": "Song Genre Finder",
+  "description": "Identify the genre, artist, and details of any song using a song link or song name.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
